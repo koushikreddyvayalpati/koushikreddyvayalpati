@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Agentic systems blueprint</title>
-  <desc id="desc">A subtle blueprint-style diagram connecting production agentic system concerns: context, planning, tools, memory, execution, review, and feedback.</desc>
+  <desc id="desc">A subtle blueprint-style diagram connecting agent orchestration concerns: context, planning, policies, tools, memory, execution, evaluation, and review.</desc>
   <rect width="1200" height="360" rx="28" fill="#0B1020"/>
   <path d="M0 278C130 248 209 322 338 288C470 253 536 137 672 164C787 186 810 287 929 268C1044 249 1088 129 1200 108V360H0V278Z" fill="#10243A"/>
   <path d="M0 84C111 128 196 55 308 88C420 121 464 221 589 205C714 188 742 73 866 82C997 91 1058 190 1200 147" stroke="#263A56" stroke-width="2"/>
@@ -19,8 +19,8 @@
   </g>
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
     <text x="80" y="88" fill="#E5EEF8" font-size="34" font-weight="700">Koushik Reddy Vayalpati</text>
-    <text x="80" y="122" fill="#93A4B8" font-size="17">Production-minded agentic AI · backend systems · enterprise workflows</text>
-    <text x="80" y="292" fill="#A7F3D0" font-size="13" letter-spacing="2">CONTEXT  /  PLANNING  /  TOOLS  /  MEMORY  /  EXECUTION  /  REVIEW</text>
+    <text x="80" y="122" fill="#93A4B8" font-size="17">Agent orchestration · backend systems · enterprise AI workflows</text>
+    <text x="80" y="292" fill="#A7F3D0" font-size="13" letter-spacing="2">CONTEXT  /  POLICY  /  ROUTING  /  MEMORY  /  EXECUTION  /  EVALUATION</text>
   </g>
   <g stroke-linecap="round" stroke-linejoin="round">
     <path d="M346 184H470" stroke="#5EEAD4" stroke-width="2"/>
@@ -36,10 +36,10 @@
   </g>
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#D8E2EF" text-anchor="middle">
     <text x="316" y="189">signal</text>
-    <text x="508" y="189">plan</text>
-    <text x="700" y="189">tool</text>
+    <text x="508" y="189">policy</text>
+    <text x="700" y="189">route</text>
     <text x="892" y="189">ship</text>
     <text x="364" y="260" fill="#A7F3D0">memory</text>
-    <text x="1008" y="280" fill="#BFDBFE">review</text>
+    <text x="1008" y="280" fill="#BFDBFE">eval</text>
   </g>
 </svg>
