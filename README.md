@@ -71,7 +71,7 @@ flowchart LR
 **Languages:** `Python` `JavaScript` `TypeScript` `Java` `SQL`  
 **Backend:** `Node.js` `Express` `Django` `REST APIs` `Auth Flows` `Service Logic`  
 **Frontend:** `React` `Next.js` `HTML` `CSS` `Tailwind CSS`  
-**AI Systems:** `Agent Orchestration` `Tool Routing` `RAG` `Vector Databases` `Memory` `Evaluation`  
+**AI Systems:** `Langgraph` `Langsmith ``Agent Orchestration` `Tool Routing` `RAG` `Vector Databases` `Memory` `Evaluation`  
 **Infrastructure:** `Linux` `Docker` `Kubernetes` `Containers` `Grafana` `Logs` `Metrics`  
 **Enterprise:** `SAP Concepts` `CRM Workflows` `Business Process Automation`
 
